@@ -9,3 +9,6 @@ composer install
 http://localhost:8001/create-index.php  
 http://localhost:8001/create-document.php  
 http://localhost:8001/search-document.php?pesquisa=administracao  
+
+**Referência:**  
+https://opensearch.org/docs/latest/clients/php/
